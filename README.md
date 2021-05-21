@@ -26,7 +26,9 @@ Build, deploy, and scale ML models faster, with pre-trained, AutoML, and/or cust
    * [Getting Online Predictions from AutoML](https://cloud.google.com/vertex-ai/docs/predictions/online-predictions-automl)
    * [Getting Online Predictions from Custom Models](https://cloud.google.com/vertex-ai/docs/predictions/online-predictions-custom-models)
 
-Advanced ML Features:
+---
+
+**Advanced ML Features:**
 
 * [Explainable AI](https://cloud.google.com/vertex-ai/docs/explainable-ai/overview)
 
