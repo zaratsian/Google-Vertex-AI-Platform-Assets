@@ -21,7 +21,7 @@ Build, deploy, and scale ML models faster, with pre-trained, AutoML, and/or cust
 
    * [Pre-built containers for prediction](https://cloud.google.com/vertex-ai/docs/predictions/pre-built-containers)
    * [Custom containers for prediction](https://cloud.google.com/vertex-ai/docs/predictions/use-custom-container)
-   * [Deploying a model using the API](Deploying a model using the Vertex AI API)
+   * [Deploying a model using the API](https://cloud.google.com/vertex-ai/docs/predictions/deploy-model-api)
    * [Getting Batch Predictions](https://cloud.google.com/vertex-ai/docs/predictions/batch-predictions)
    * [Getting Online Predictions from AutoML](https://cloud.google.com/vertex-ai/docs/predictions/online-predictions-automl)
    * [Getting Online Predictions from Custom Models](https://cloud.google.com/vertex-ai/docs/predictions/online-predictions-custom-models)
